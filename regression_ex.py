@@ -1,3 +1,5 @@
+# Function to try and predict IMDB rating given normalised budget, run time and release year
+
 from movies import movie_dataset, movie_ratings
 
 def distance(movie1, movie2):
